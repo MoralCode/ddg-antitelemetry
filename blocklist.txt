@@ -259,16 +259,13 @@ usermatch.krxd.net
 v.fwmrm.net
 vidstat.taboola.com
 view.adjust.com
-web.facebook.com
 wf.taboola.com
 wins.isprog.com
 ws.tapjoyads.com
 wv.inner-active.mobi
-www.facebook.com
 www.google-analytics.com
 www.googleadservices.com
 www.googletagmanager.com
 www.googletagservices.com
-www.instagram.com
 x.bidswitch.net
 ybp.yahoo.com
